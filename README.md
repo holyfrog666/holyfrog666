@@ -7,7 +7,7 @@
 
 ### Interested in so much below
 
-> publishing, frontend, backend, db, web service
+> publishing, front-end, back-end, db, web service
 
 - html / css / javascript
 - responsive web
