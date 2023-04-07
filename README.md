@@ -13,6 +13,7 @@
 - responsive web
 - hybrid web / app
 - React
+- NodeJS
 - Python-flask
 - mysql DB
 - Azure
