@@ -8,13 +8,3 @@
 ### Interested in so much below
 
 > publishing, front-end, back-end, db, web service
-
-- html / css / javascript
-- responsive web
-- hybrid web / app
-- React
-- NodeJS
-- Python-flask
-- mysql DB
-- Azure
-- github
