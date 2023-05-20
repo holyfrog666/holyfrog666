@@ -7,4 +7,4 @@
 
 ### Interested in so much below
 
-> publishing, front-end, back-end, db, web service
+> publish, front-end, back-end, db, web service
